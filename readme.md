@@ -9,3 +9,6 @@ It's interesting to know though so maybe if you want to get the most optimal sol
 - Binary search
 
 Haven't done this stuff in a long time and never used it in the job... 
+
+
+Check this out, it's pretty good: https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/edit#
